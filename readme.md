@@ -1,2 +1,2 @@
-<prueba> #no se nada</prueba>
+<h1> #no se nada</h1>
 -estado:en la mierda-
